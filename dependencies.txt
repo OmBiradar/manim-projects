@@ -1,0 +1,5 @@
+manim python package
+    updating a package
+    latex package
+        Install from https://miktex.org/download
+    
